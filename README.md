@@ -1,0 +1,1 @@
+# Modelo-Din-mico-del-Thermal-Throttling-en-Procesamiento-Local-de-IA
